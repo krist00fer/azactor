@@ -3,7 +3,7 @@
 ## WORK IN PROGRESS, DON'T EXPECT THINGS TO WORK!!!
 ...
 
-[![Build status](https://ci.appveyor.com/api/projects/status/cvvgu0j1ksqr8m6r?svg=true)](https://ci.appveyor.com/project/krist00fer/azactor)
+[![Build status](https://ci.appveyor.com/api/projects/status/cvvgu0j1ksqr8m6r/branch/master?svg=true)](https://ci.appveyor.com/project/krist00fer/azactor/branch/master)
 
 ### Service Fabric - Service Fabric Actors
 
